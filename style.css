@@ -1,0 +1,21 @@
+.colorTitulo{
+    color: darkorange;
+}
+.colorTexto{
+    color: coral;
+}
+.fondo{
+    background-color: black;
+}
+.centrar{
+    text-align: center;
+}
+
+.size{
+    height: 400px;   
+}
+
+.img{
+    display: block;
+    margin: auto;
+}
